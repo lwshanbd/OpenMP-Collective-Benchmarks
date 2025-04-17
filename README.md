@@ -1,1 +1,1 @@
-# OpenMP-Collective-Benchmarks
+# OpenMP Collective Benchmarks
